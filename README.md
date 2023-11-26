@@ -10,3 +10,9 @@ Before you start, make sure you have the following dependencies installed:
 - Jupyter Notebook
 - PyTorch (recommended for running the notebook)
 - Transformers library (Hugging Face)
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgments
+This project uses the Transformers library by Hugging Face, which provides pre-trained language models for NLP tasks.
